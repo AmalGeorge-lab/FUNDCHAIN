@@ -63,6 +63,23 @@ The project combines a modern web application with blockchain infrastructure to 
 * Smart Contracts
 * Ethers.js 
 
+
+
+# Screenshots
+
+## Home Page
+
+![Home Page](screenshots/homePage.png)
+
+## Dashboard Page
+
+![Dashboard Page](screenshots/dashboard.png)
+
+---
+
+
+
+
 ## 🔐 Security & Blockchain Principles
 
 * Sensitive credentials are isolated using environment variables.
